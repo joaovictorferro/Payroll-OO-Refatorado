@@ -1,6 +1,6 @@
 # Payroll-OO-Refatorado
 
-## Padroes Utilizados:
+## Padrões Utilizados:
 ### 1 - Extract Class
 ### 2 - Chain Constructors
 ### 3 - Replace Array With Object
