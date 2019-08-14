@@ -1,6 +1,7 @@
 # Payroll-OO-Refatorado
 
 ## Padrões Utilizados:
+### Ide: eclipse, java versao: 11
 ### 1 - Extract Class
 ### 2 - Chain Constructors
 ### 3 - Replace Array With Object
