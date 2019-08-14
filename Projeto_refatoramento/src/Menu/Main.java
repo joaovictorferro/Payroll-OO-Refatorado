@@ -34,7 +34,7 @@ public class Main {
 		System.out.println("Digite [5] se deseja alterar dados de um empregado:");
 		System.out.println("Digite [6] se deseja rodar a folha de pagamento:");
 		System.out.println("Digite [7] para Undo/Redo:");
-		System.out.println("Digite [8] se deseja alterar sua agenda de pagamentos:");
+		System.out.println("Digite [8] desejar ver os proximos pagamentos dos empregados:");
 		System.out.println("Digite [9] para criar uma nova agenda de pagamento:");
 		System.out.println("Digite [10] se deseja listar os empregados:");
 		System.out.println("Digite [11] Terminar o Dia");
